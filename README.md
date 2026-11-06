@@ -95,8 +95,9 @@ test and `val_99`. `val_99` is disjoint from all four. The paper's analyses use 
 - **No claim** is made to BIRD's or any other third party's material.
 
 ## 11. Citation
-Cite the paper and this dataset (`CITATION.cff`). The frozen scorer verdicts are also deposited separately on Kaggle
-(*Text-to-Cypher Execution-Accuracy Scorer Audit*, version 1.0.0-rc.2); that deposit is not this corpus.
+Cite the paper and this dataset (`CITATION.cff`), giving the release tag. This repository is the canonical release of
+the corpus and of the frozen verdicts. An earlier verdict-only snapshot on Kaggle (*Text-to-Cypher Execution-Accuracy
+Scorer Audit*, version 1.0.0-rc.2) is not the corpus and is not needed for reproduction.
 
 ## 12. Not included
 CypherTurn content; Mind the Query questions, result rows and graph dumps; scorer source code; the `works_cycles`
