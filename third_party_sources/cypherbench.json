@@ -1,0 +1,11 @@
+{
+ "id": "cypherbench",
+ "name": "CypherBench",
+ "url": "https://github.com/megagonlabs/cypherbench",
+ "pin": "4cc727d29acc78f8cea7c4daa4e2705ddf293b8b",
+ "licence": "Apache-2.0",
+ "licence_status": "VERIFIED (LICENSE file)",
+ "used_for": "scorer CB only (no benchmark data used)",
+ "redistribution": "not needed; fetched",
+ "release_class": "FETCH-ONLY"
+}

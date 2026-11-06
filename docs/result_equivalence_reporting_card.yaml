@@ -1,0 +1,26 @@
+# Text-to-Cypher Result-Equivalence Reporting Card - machine-readable template (documentation artifact, not a metric).
+card_version: 1
+scorer:
+  repository: ""        # e.g. owner/repo
+  commit: ""            # full SHA
+  file: ""
+  function: ""
+policy:
+  column_names: strict          # strict | ignored | normalized
+  aliases: result_keys          # result_keys | ignored | query_text
+  column_order: permutation     # positional | permutation | by_name
+  row_order: order_by_only      # always | order_by_only | never
+  order_trigger: gold           # gold | prediction | either | none
+  duplicates: multiset          # multiset | set
+  null_policy: exact            # exact | normalized
+  numeric_type: coerced         # strict | coerced
+  float_tolerance: 0.0          # 0.0 = exact; or epsilon / rounding digits
+  strings: raw                  # raw | normalized
+  lists_maps: structural        # structural | serialized | unsupported
+  graph_values: element_id      # element_id | properties | unsupported
+  empty_results: equal_if_both_empty
+  query_text_dependency: false
+  identical_query_shortcut: false
+  errors: score_zero            # score_zero | excluded | reported
+  determinism: deterministic    # deterministic | seeded | stochastic
+  materialization: driver_records

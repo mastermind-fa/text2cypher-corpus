@@ -1,0 +1,12 @@
+{
+ "id": "text2gql_driver",
+ "name": "Text2GQL-Bench driver (Text2GraphQuery-Driver)",
+ "url": "https://github.com/ldbc/Text2GraphQuery-Driver",
+ "former_url": "https://github.com/TuGraph-family/text2graphquery-driver (HTTP 301 to the URL above; both resolve to the pinned commit, checked 2026-11-01)",
+ "pin": "ab296fab179e806cd3ad2e659e9f5dc61bd1af3e",
+ "licence": "no licence file at commit",
+ "licence_status": "UNVERIFIED",
+ "used_for": "scorer TG only",
+ "redistribution": "never",
+ "release_class": "FETCH-ONLY"
+}

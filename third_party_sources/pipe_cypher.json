@@ -1,0 +1,11 @@
+{
+ "id": "pipe_cypher",
+ "name": "PIPE-Cypher",
+ "url": "https://github.com/suraj-ranganath/PIPE-Cypher",
+ "pin": "0f127208746eb1035d95803348cc5cde36d47d7e",
+ "licence": "MIT (stated in pyproject.toml; no LICENSE file)",
+ "licence_status": "PARTIAL",
+ "used_for": "scorer PIPE only",
+ "redistribution": "not needed; fetched",
+ "release_class": "FETCH-ONLY"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "cypherturn",
+ "name": "CypherTurn",
+ "url": "https://github.com/BarryQ/CypherTurn",
+ "pin": "9d9528e16c8fe2fb388b9daa4b43dcaa6f229612",
+ "licence": "no licence file at commit (README: research purposes)",
+ "licence_status": "UNVERIFIED",
+ "used_for": "scorer CT; S18 gentle rewrites (60) and S20 stress suite (62) rebuilt from its graphs/queries",
+ "redistribution": "never; case IDs, rules and verdicts only",
+ "release_class": "FETCH-ONLY"
+}

@@ -1,0 +1,23 @@
+{
+ "format": "JSON Lines, one record per line",
+ "fields": {
+  "record_id": "WC-000..WC-562 (= dataset.json index)",
+  "s3_case_id": "S3 pair id (S3-000..S3-562)",
+  "provenance_class": "R-A_bird_official_exact | R-B_bird_mirror_exact | R-C_project_written",
+  "db_id": "works_cycles",
+  "question": "natural-language question (BIRD for R-A/R-B; project-written for R-C)",
+  "SQL": "gold SQL (BIRD for R-A/R-B; project for R-C)",
+  "cypher": "gold Cypher (project translation)",
+  "sql_output": "stored SQLite result rows",
+  "neo4j_output": "stored Neo4j result rows",
+  "cypher_okay": "SQL and Cypher outputs matched under the corpus validation comparator (true for all 563)",
+  "annotator": "pseudonym A1..A5 for R-C records (real names withheld)"
+ },
+ "excluded_fields": {
+  "reasoning_trace": "LLM-generated SQL->Cypher derivation; not used by any result",
+  "reasoning_error": "LLM API error log",
+  "evidence": "BIRD hint text / annotator notes; not used by S2/S3 scoring",
+  "Author": "annotator real names (personal data)",
+  "question_id, Complexity, NLQ_2, NLQ_3, user_edited, review_status, Results": "internal annotation/workflow metadata; not used by any result"
+ }
+}

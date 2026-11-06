@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper and this dataset."
+title: "What Counts as Correct? A Cross-Implementation Audit of Execution Accuracy in Text-to-Cypher — evaluation dataset"
+version: "1.0.0"
+date-released: "2026-11-07"
+authors:
+  - name: "AUTHOR-NAME-TODO"
+repository-code: "https://github.com/mastermind-fa/text2cypher-corpus"
+license: CC-BY-SA-4.0
+# doi: added only after an archive DOI exists
+preferred-citation:
+  type: conference-paper
+  title: "What Counts as Correct? A Cross-Implementation Audit of Execution Accuracy in Text-to-Cypher"
+  authors:
+    - name: "AUTHOR-NAME-TODO"
+  collection-title: "IEEE International Conference on Data Engineering (ICDE 2027), under review"
+  year: 2027

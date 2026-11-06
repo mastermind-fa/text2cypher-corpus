@@ -1,0 +1,14 @@
+{
+ "id": "bird_works_cycles",
+ "name": "BIRD train: works_cycles database (+ R-A/R-B corpus questions and SQL)",
+ "url": "https://bird-bench.github.io/ (official train.zip); https://huggingface.co/datasets/birdsql/bird23-train-filtered",
+ "pin": "bird23-train-filtered @40684698; official train.zip 8,919,543,554 bytes (archive SHA-256 OWNER-APPROVAL-PENDING; not downloaded)",
+ "local_file_sha256": {
+  "database/works_cycles.sqlite": "5a5968b86a2de3cf…(full hash in inventory)"
+ },
+ "licence": "CC BY-SA 4.0 (BIRD)",
+ "licence_status": "VERIFIED (dataset card)",
+ "used_for": "S3 corpus pairs (563), S2 references; reproduction needs only the database to re-execute stored outputs",
+ "redistribution": "corpus subset under CC BY-SA 4.0 with attribution (PUBLIC-CONDITIONAL); database file not redistributed (fetch)",
+ "release_class": "FETCH-ONLY"
+}

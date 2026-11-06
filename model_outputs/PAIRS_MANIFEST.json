@@ -1,0 +1,30 @@
+{
+  "pairs_version": "k4-pairs-v1",
+  "sources": {
+    "dataset.json": "e96196c9b90181d6e6aaaef67bbe6231d91d54ddf8ad5b6bd016189b79a7747e",
+    "primary_execution_s8c.jsonl": "c6fe54e46b84e52073dcbbb2eca83a2c555cc134af16e852be94b8fd1e3a7b8b",
+    "c3_units.jsonl": "9f640271ac73bd07251ac2612cc3b057a01a07919eca6f0467c4f15d297924cb"
+  },
+  "s3": {
+    "n": 563,
+    "empty_reference": 9,
+    "empty_prediction": 9,
+    "distinct_clusters": 562
+  },
+  "s2": {
+    "n": 158,
+    "empty_prediction": 117,
+    "empty_reference": 0,
+    "identical_query_text": 0,
+    "distinct_clusters": 111,
+    "models": {
+      "phi3.5-mini-instruct": 76,
+      "qwen3-4b": 82
+    },
+    "not_scored_non_ok": 118
+  },
+  "files_sha256": {
+    "s3_pairs.jsonl": "3beeb5c9f53c718cc4ec19d33c0dcd407d48cc27411d23a33031696982ac9f12",
+    "s2_pairs.jsonl": "bbf03ffdd8ca30babb565010f0db554a1befaa2ff5427ed28aef815ee991765e"
+  }
+}

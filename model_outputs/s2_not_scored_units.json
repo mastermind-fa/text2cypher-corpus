@@ -1,0 +1,474 @@
+[
+ {
+  "unit_id": "qwen3-4b|Q03de6aaa9c5c",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q09b27dfc0199",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q0ac2c8679456",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q0ff0e163e5d8",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q11bedf55f7ed",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q16e4c4a8ab59",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q1a6323c55c0e",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q1a73dd8e0906",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q1b0c913513c4",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q21fb4b8927ac",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q23d243823123",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q248fb070bd65",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q2842167a7fa1",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q345d2930c834",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q387aeff57852",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q3f1d11ddd9e4",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q48aede4b559a",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q48da8666481e",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q5997a944a867",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q5f2d06514c13",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q5f7e9d89c071",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q6480cc7ed87d",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q6504c4151c93",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q65eb4f30417f",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q6ac0e455d69b",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q6d074bc8da39",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q701bbb8ebd62",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q72b1ed14d0fd",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q765657a1036d",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q775382471916",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q7a48c02a46fe",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q7c83c99cc9fe",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q7d10eeb725d3",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q8044a412da6c",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q81a727aa7e3c",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q831f262ecc48",
+  "execution_status": "TIMEOUT"
+ },
+ {
+  "unit_id": "qwen3-4b|Q87babf621487",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q919096b8b5a6",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Q9391d66f4e74",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Q955bb0abfec0",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qa4f590ee1d56",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qad94c340a40e",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qae1208ba59e0",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qb0fd8af11a18",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qb15b30555dca",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qb7da0acaeedb",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Qbb44eaed5d41",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "qwen3-4b|Qbbc537f750f1",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qbde5dbf38605",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qcf3658530afa",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qd404b2770c8c",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qe393c466db6e",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qe6d103245e02",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qf018472a6900",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qf35fa3517243",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "qwen3-4b|Qf453798ecf4c",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q026b9fc93a14",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q03de6aaa9c5c",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q0613b6825a7c",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q072371924ef9",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q09b27dfc0199",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q0ac2c8679456",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q0ff0e163e5d8",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q11bedf55f7ed",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q1280f84d36d3",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q14d5277d76d4",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q16e4c4a8ab59",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q1a6323c55c0e",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q1b0c913513c4",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q22d6e88ecff6",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q2a8a8b0272ca",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q2af6e8f4d287",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q387aeff57852",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q3d42f6150356",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q3e5e7eae15ce",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q3f1d11ddd9e4",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q48aede4b559a",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q4cf4038c480a",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5149cf9a1527",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5296f5113316",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5997a944a867",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5b09033e5de2",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5d10c7c795ae",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q5f2d06514c13",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q6504c4151c93",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q6d074bc8da39",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q70fed9d13d83",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q724e45601c3f",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q72b1ed14d0fd",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q73c26b9223d4",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q765657a1036d",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q775382471916",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q7c83c99cc9fe",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q81a727aa7e3c",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q872e282645c1",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q89edda886135",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q8e4524bbaac9",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q919096b8b5a6",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q9391d66f4e74",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q946fddefd9d0",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Q9e19690a4be4",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qa4f590ee1d56",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qa5477374a149",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qa6dfed876a21",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qabc0c9ca0a08",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qaedb7bbb30a6",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qb01555143da2",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qbcc4b2ba12c4",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qbde5dbf38605",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qc85692456c69",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qc9985776bbd8",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qcfca2f53cfcf",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qda2dd3eb796a",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qe84f3688e9ac",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qed5f487398f9",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qf018472a6900",
+  "execution_status": "CYPHER_ERROR"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qf35fa3517243",
+  "execution_status": "NOT_EXECUTED"
+ },
+ {
+  "unit_id": "phi3.5-mini-instruct|Qf453798ecf4c",
+  "execution_status": "NOT_EXECUTED"
+ }
+]

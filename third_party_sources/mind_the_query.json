@@ -1,0 +1,11 @@
+{
+ "id": "mind_the_query",
+ "name": "Mind the Query (manual test split + 5 Neo4j dumps)",
+ "url": "https://github.com/endeavorXx/Mind-the-Query",
+ "pin": "ec4054a1b7df7e6310efa95c56bb6e7cebc4d161 (sparse checkout without .env)",
+ "licence": "Apache-2.0 (repository); neo4j-graph-examples dump licences unverified",
+ "licence_status": "PARTIAL",
+ "used_for": "S23 cross-benchmark replication: 1,829 manual-test rows, 1,086 eligible distinct sources, 77 cases on 5 graphs",
+ "redistribution": "query texts referenced by unique_id only; dumps and result rows never redistributed",
+ "release_class": "FETCH-ONLY"
+}

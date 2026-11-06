@@ -1,0 +1,11 @@
+{
+ "id": "cypherlens",
+ "name": "CypherLens",
+ "url": "https://github.com/YasmeanMohammadi/cypherLenz",
+ "pin": "ce6481941e78d12fcec974babf453891487ef17a",
+ "licence": "no licence file, no README",
+ "licence_status": "UNVERIFIED",
+ "used_for": "scorer CL only",
+ "redistribution": "never",
+ "release_class": "FETCH-ONLY"
+}

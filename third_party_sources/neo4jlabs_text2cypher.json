@@ -1,0 +1,11 @@
+{
+ "id": "neo4jlabs_text2cypher",
+ "name": "neo4j-labs text2cypher (secondary Jaccard comparator)",
+ "url": "https://github.com/neo4j-labs/text2cypher",
+ "pin": "a8ed4d9480bcd4aa1b1a0b2e57aadd996afeaca2",
+ "licence": "CC0-1.0 (LICENSE file)",
+ "licence_status": "VERIFIED",
+ "used_for": "secondary comparator only",
+ "redistribution": "not needed; fetched",
+ "release_class": "FETCH-ONLY"
+}

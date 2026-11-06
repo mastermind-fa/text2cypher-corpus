@@ -1,0 +1,22 @@
+field,present_in,example,source,author_owner,existing_licence,can_redistribute,needed_for_paper_results,proposed_treatment
+record_id (new),563 (derived),WC-000,array index of database/dataset.json,project,none,yes (identifier),yes (links pairs/verdicts),RELEASE
+s3_case_id (new),563 (derived),S3-000,build_pairs.py,project,none,yes,yes,RELEASE
+provenance_class (new),563 (derived),R-A_bird_official_exact,Official-release match vs official BIRD filtered JSONL (383) + full train.json via mirror (81) + Author field (99),project,none,yes,no (transparency),RELEASE
+db_id,464 (R-A/R-B),works_cycles,BIRD,BIRD authors,CC BY-SA 4.0,yes with attribution,no,RELEASE as constant for all 563
+question,563,<natural-language question> ...,R-A/R-B: BIRD train; R-C: project annotators,BIRD authors / 5 annotators,R-A/R-B CC BY-SA 4.0; R-C none (consent needed),R-A/R-B yes (SA); R-C only with consent,yes (S3 pair 'cluster' field; S3 pair hash),RELEASE (R-C conditional on consent)
+SQL,563,SELECT <column> FROM <table> ...,R-A/R-B: BIRD train; R-C: project annotators,BIRD authors / annotators,as question,as question,yes (S3 candidate query text; replay adapters key on query text),RELEASE (R-C conditional)
+cypher,563,MATCH (<node>:<Label>) RETURN <node>.<property> ...,project translation; authoring method UNKNOWN — requires owner confirmation (possibly LLM-assisted),project,none assigned,yes once project licence chosen (derivative of SA material -> CC BY-SA 4.0),yes (S3 reference query text),RELEASE under CC BY-SA 4.0 (owner decision)
+sql_output,563 (554 non-empty lists; 9 empty),"[{""<column>"": <value>}, ...]",project execution of SQL on BIRD works_cycles.sqlite,facts from BIRD database (AdventureWorks sample; fictitious people/e-mails),CC BY-SA 4.0 (database),yes with attribution,yes (S3 candidate rows),RELEASE
+neo4j_output,563,"[{""<column>"": <value>}, ...]",project execution of Cypher on the project-built graph,as sql_output,CC BY-SA 4.0 (database),yes with attribution,yes (S3 reference rows),RELEASE
+cypher_okay,563,true,project validation (pc lineage comparator),project,none,yes,no (all true; documents conditioning),RELEASE
+evidence,563 (R-A/R-B: BIRD hint text in 429; R-C: annotator notes),<hint text> ...,BIRD (R-A/R-B) / annotators (R-C),BIRD / annotators,CC BY-SA 4.0 / none,R-A/R-B yes; R-C consent,no (not used by S2/S3 scoring),EXCLUDE (minimise; not needed)
+reasoning_trace,563,(LLM-generated reasoning text; example withheld: field excluded from every release),LLM-generated via an API (model UNKNOWN — requires owner confirmation),unclear (machine-generated),none,uncertain; not needed,no,EXCLUDE
+reasoning_error,33,LLM API error ... context-length overflow,LLM API log,n/a,none,not needed,no,EXCLUDE
+Author,99 (R-C),annotator real name + suffix,project annotation sheet,annotators (personal data),none,no (personal data),no,EXCLUDE; replace with pseudonym A1–A5
+question_id,99 (R-C),1,annotation sheet,project,none,yes,no,EXCLUDE (record_id suffices)
+Complexity,99 (R-C),Easy/Medium/Hard,annotator label,annotators,none,consent,no,EXCLUDE (not used)
+NLQ_2 / NLQ_3,60 / 59 (R-C),<paraphrase of the question>,annotators,annotators,none,consent,no,EXCLUDE (not used)
+user_edited / review_status,106,null/flags,internal review workflow,project,none,yes,no,EXCLUDE (internal)
+Results,1,(single stray field),unknown,unknown,none,uncertain,no,EXCLUDE
+S2 extracted predictions (pilot prediction run),"429 extractions, 158 executed",raw_text / extracted_cypher,Qwen3-4B @1cfa9a72 (Apache-2.0) / Phi-3.5-mini @2fe19245 (MIT) under project prompts,model output (project run),model cards place no restriction on outputs (cards read; full licence texts not),yes (with corpus licence for restated schema/questions),yes via s2_pairs.jsonl,RELEASE s2_pairs + minimal prediction manifest (conditional on corpus licence)
+C3 adjudication labels (pilot annotation),110 sheet rows,final_semantic_label,Annotator A and Annotator B (project),annotators A/B,none,consent,yes for the S2 '8 of 14 NOT_EQUIVALENT' statement only,CONDITIONAL (consent) or report that statement as not artifact-reproducible

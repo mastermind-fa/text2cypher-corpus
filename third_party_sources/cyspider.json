@@ -1,0 +1,11 @@
+{
+ "id": "cyspider",
+ "name": "CySpider (SemanticParser4Graph)",
+ "url": "https://github.com/22842219/SemanticParser4Graph",
+ "pin": "6cd5eff4aa37b40a2557d312f70ec0d576d8a6b1",
+ "licence": "Apache-2.0 (semantic_parser/LICENSE); Spider-derived data terms unverified",
+ "licence_status": "PARTIAL",
+ "used_for": "scorer CS only",
+ "redistribution": "not needed; fetched",
+ "release_class": "FETCH-ONLY"
+}

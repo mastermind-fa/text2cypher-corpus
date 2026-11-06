@@ -1,0 +1,11 @@
+{
+ "id": "gqlbench",
+ "name": "GQLBench",
+ "url": "https://github.com/qxssadf/GQLBench",
+ "pin": "fb9d5a9be3ccc73ea9fe44c67a9b180eccedfad2",
+ "licence": "no root licence file",
+ "licence_status": "UNVERIFIED",
+ "used_for": "scorer GQ only",
+ "redistribution": "never",
+ "release_class": "FETCH-ONLY"
+}
