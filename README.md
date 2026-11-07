@@ -1,6 +1,6 @@
 # Text-to-Cypher Works-Cycles corpus and scorer-audit data
 
-**Version:** 1.0.0 · **Repository:** https://github.com/mastermind-fa/text2cypher-corpus · **Data licence:** CC BY-SA 4.0
+**Version:** 1.0.1 · **Repository:** https://github.com/mastermind-fa/text2cypher-corpus · **Data licence:** CC BY-SA 4.0
 (https://creativecommons.org/licenses/by-sa/4.0/; `LICENSE`, scope in `DATA_LICENSE.md`) ·
 **Companion paper:** *What Counts as Correct? A Cross-Implementation Audit of Execution Accuracy in Text-to-Cypher* (under review, ICDE 2027) · **Code:** https://github.com/mastermind-fa/text2cypher-scorer-audit-artifact (Apache-2.0)
 
